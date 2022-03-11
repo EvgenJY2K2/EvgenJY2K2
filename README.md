@@ -4,7 +4,7 @@
 
 I am looking forward to connect with programming enthusiasts, who are open to exchange experience and collaborate.
 
-Feel free to contact me via Email: eug.efimencko@gmail.com; or Facebook: https://www.facebook.com/evgeniia.efimenko.50/.
+Feel free to contact me via Email: eug.efimencko@gmail.com; or LinkedIn: https://www.linkedin.com/in/evgenef/.
 
 ⭐You can check out the courses here:
  - CodeCamp ("Scientific Computing with Python"): https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody

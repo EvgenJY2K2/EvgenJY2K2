@@ -1,5 +1,5 @@
 👋 Hello, I’m @EvgenJY2K2
-- 👀 I'm a self-taught beginning programmer
+- 👀 I'm a self-taught programmer
 - 🌱 I took a "Scientific Computing with Python" course on CodeCamp* and on my way to obtain the Google Data Analytics Professional Certificate*
 
 I am looking forward to connect with programming enthusiasts, who are open to exchange experience and collaborate.

@@ -1,9 +1,10 @@
 👋 Hello, I’m @EvgenJY2K2
 
-⭐ I am a STEM enthusiast, and passionate programmer, on my way to obtaining a Mechanical Engineering degree minoring in Software Engineering.
+⭐ I am a STEM enthusiast, and a passionate programmer. On my way to obtaining a Mechanical Engineering degree minoring in Software Engineering at LUT University, Finland.
 
-🚀 Most recently I completed a Scientific Computing with Python course and Professional Data Analytics Certificate from Google (analyzed a real-life company - check it out in my profile). 
+🌱 Currently involved in mentoring for Google Developer Student Clubs, teaching exercise groups on mechanics and programming courses, creating content for LUT Entrepreneurship Society, and completing a "Data Structures and Algorithms Specialization" course from the University of California San Diego.
 
+🚀 Most recently I completed a Professional Data Analytics Certificate from Google and analyzed a real-life company (find more details in my GitHub/Kaggle profile)!
 
 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/evgenef/.
 
